@@ -1,2 +1,1 @@
-# GuitarChordsSynthetizer
-Guitar Chords Synthesizer using the Karplus Strong Algorithm in Matlab
+# Generador de acordes de guitarra utilizando Matlab
